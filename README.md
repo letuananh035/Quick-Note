@@ -11,6 +11,7 @@
   - Vẽ biểu đồ thống kê tròn
   - Hook khi nhấn Window + Space để hiển thị thêm note(khi ẩn phần mềm)
   - Menu khi ẩn phần mềm(Tray icon)
+  - Lưu trữ dữ liệu bằng json(hỗ trợ Unicode)
 ### Luồng sự kiện chính
   - Mở chương trình xem, thêm và sửa note.
   - Vào xem thống kê.
