@@ -22,4 +22,5 @@ https://github.com/letuananh035/Quick-Note.git
 https://youtu.be/CbB3ZUBz_cE
 
 * Đồ án lần này em không dành nhiều thời nên ứng dụng chưa mượt + chưa được ổn định.
-** Thời gian làm: Khoảng 10 - 12h
+
+* Thời gian làm: Khoảng 10 - 12h
